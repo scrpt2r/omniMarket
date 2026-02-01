@@ -1,0 +1,30 @@
+{
+    "name": "omniMarket",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "replicated": {
+                "$className": "Folder",
+                "packages": {
+                    "$className": "Folder",
+                    "omniMarket": {
+                        "$properties": {
+                            "Attributes": {
+                                "version": {
+                                    "String": "1.0.0"
+                                }
+                            }
+                        },
+                        "$path": "src/__index.luau",
+                        "libs": {
+                            "$path": "src/libs"
+                        },
+                        "__log__": {
+                            "$path": "src/__log__"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

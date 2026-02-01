@@ -1,0 +1,20 @@
+{
+    "name": "omniMarket",
+    "tree": {
+        "$path": "src/__index.luau",
+        "$properties": {
+            "Attributes": {
+                "version": {
+                    "String": "1.0.0"
+                }
+            }
+        },
+        "libs": {
+            "$className": "Folder",
+            "$path": "src/libs"
+        },
+        "__log__": {
+            "$path": "src/__log__"
+        }
+    }
+}
